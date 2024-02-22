@@ -17,9 +17,20 @@ namespace TypesAndVariables
             bool condition = false;
             char character = 'a';
             double number5 = 21.4;
+            decimal number6 = 21.4M;
+            var number7 = 10;
+            number7 = 'A';
+
             Console.WriteLine("Number is {0} {1} ", number1,number2);
             Console.WriteLine("Character is : {0} ", (int)character);
+            Console.WriteLine(Days.Friday);
+            Console.WriteLine((int)Days.Friday);
             Console.ReadLine();
         }
+    }
+
+    enum Days
+    {
+        Monday, Tuesday, Wednesday, Thursday, Friday, Saturday,Sunday
     }
 }
