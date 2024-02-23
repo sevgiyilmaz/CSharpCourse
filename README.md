@@ -6,3 +6,4 @@
 - Methods
 - Method Overloading
 - Arrays
+- Loops
