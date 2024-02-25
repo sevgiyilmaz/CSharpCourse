@@ -10,4 +10,5 @@
 - Classes
 - Encapsulation
 - Interfaces
+- Polymorphism
 - Inheritance
