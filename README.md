@@ -9,3 +9,4 @@
 - Loops
 - Classes
 - Encapsulation
+- Interfaces
