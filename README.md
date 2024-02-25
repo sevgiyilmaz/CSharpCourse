@@ -8,3 +8,4 @@
 - Arrays
 - Loops
 - Classes
+- Encapsulation
